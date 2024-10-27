@@ -8,8 +8,8 @@ global.ytname = "YT: Resonex"
 global.socialm = "GitHub: Joker-Reincarnated"
 global.location = "Nigeria, Lagos, Ikeja"
 
-global.ownernumber = '2349168929037'  //creator number
-global.ownername = '🃏Joker🃏' //owner name
+global.ownernumber = '260967838144'  //creator number
+global.ownername = '𝐉𝐀𝐕𝐀 𝐁𝐎𝐘 𝐌𝐑𝟐𝐊 𝐓𝐄𝐂𝐇' //owner name
 global.botname = '☣️ Toxic MD' //name of the bot
 
 //sticker details
@@ -27,7 +27,7 @@ global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
 global.prefa = ['']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
